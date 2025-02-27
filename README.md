@@ -107,5 +107,3 @@ Jika Anda memiliki pertanyaan atau saran, silakan hubungi:
 - Nama: [Obscura]
 - Email: [service@obscuraworks.com]
 - GitHub: [NyxObscura]
-
-```
